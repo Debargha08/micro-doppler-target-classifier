@@ -1,0 +1,33 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Model files
+*.keras
+*.h5
+*.hdf5
+*.pth
+*.pt
+*.ckpt
+
+# Dataset cache
+*.npz
+*.npy
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
